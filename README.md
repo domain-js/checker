@@ -12,10 +12,10 @@
 <pre>无</pre>
 
 # deps
-| 模块名 | 别名 | 用到的方法 | 描述 |
-| ------ | ---- | ---------- | ---- |
-| async  | `无` | someSeries | 多种权限均可以的时候调用该函数一次判断，直到返回为 true |
-| errors | `无` | notAllowed | 权限不足的默认错误 |
+| 名称 | 描述 |
+| ------ | ---- |
+| async.someSeries  | 多种权限均可以的时候调用该函数一次判断，直到返回为 true |
+| errors.notAllowed | 权限不足的默认错误 |
 
 
 # Usage
